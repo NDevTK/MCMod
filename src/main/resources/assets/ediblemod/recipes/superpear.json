@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xyx",
+        "xxx"
+    ],
+    "key":
+    {
+        "y":
+        {
+            "item": "ediblemod:pear"
+        },
+        "x":
+        {
+            "item": "minecraft:gold_ingot"
+        }
+        },
+    "result":
+    {
+        "item": "ediblemod:superpear",
+        "count": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/chiseledhorustone_top",
+    	"down": "ediblemod:block/chiseledhorustone_top",
+    	"south": "ediblemod:block/chiseledhorustone_sides",
+    	"north": "ediblemod:block/chiseledhorustone_sides",
+    	"west": "ediblemod:block/chiseledhorustone_sides",
+    	"east": "ediblemod:block/chiseledhorustone_sides",
+    	"particle": "ediblemod:block/chiseledhorustone_sides"
+    }
+}

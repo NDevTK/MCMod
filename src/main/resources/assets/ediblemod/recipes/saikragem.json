@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+        {
+            "item": "ediblemod:saikrablock"
+        }
+    ],
+    "result":
+    {
+        "item": "ediblemod:saikragem",
+        "count": 9
+    }
+}

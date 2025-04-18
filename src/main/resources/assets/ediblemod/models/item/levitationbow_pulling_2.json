@@ -1,0 +1,6 @@
+{
+    "parent": "ediblemod:item/levitationbow",
+    "textures": {
+        "layer0": "ediblemod:item/levitationbow_pulling_2"
+    }
+}

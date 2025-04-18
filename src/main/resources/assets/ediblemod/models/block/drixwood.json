@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/drixwood_top",
+    	"down": "ediblemod:block/drixwood_top",
+    	"south": "ediblemod:block/drixwood_sides",
+    	"north": "ediblemod:block/drixwood_sides",
+    	"west": "ediblemod:block/drixwood_sides",
+    	"east": "ediblemod:block/drixwood_sides",
+    	"particle": "ediblemod:block/drixwood_sides"
+    }
+}

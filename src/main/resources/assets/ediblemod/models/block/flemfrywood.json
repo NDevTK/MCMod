@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/flemfrywood_top",
+    	"down": "ediblemod:block/flemfrywood_top",
+    	"south": "ediblemod:block/flemfrywood_sides",
+    	"north": "ediblemod:block/flemfrywood_sides",
+    	"west": "ediblemod:block/flemfrywood_sides",
+    	"east": "ediblemod:block/flemfrywood_sides",
+    	"particle": "ediblemod:block/flemfrywood_sides"
+    }
+}

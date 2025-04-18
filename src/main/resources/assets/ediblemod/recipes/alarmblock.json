@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+        {
+            "item": "minecraft:redstone_block"
+        },
+        {
+            "item": "ediblemod:saikragem"
+        }
+    ],
+    "result":
+    {
+        "item": "ediblemod:alarmblock",
+        "count": 1
+    }
+}

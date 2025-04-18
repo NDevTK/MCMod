@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/deeperhorustonerubyore_top",
+    	"down": "ediblemod:block/deeperhorustonerubyore_top",
+    	"south": "ediblemod:block/deeperhorustonerubyore_sides",
+    	"north": "ediblemod:block/deeperhorustonerubyore_sides",
+    	"west": "ediblemod:block/deeperhorustonerubyore_sides",
+    	"east": "ediblemod:block/deeperhorustonerubyore_sides",
+    	"particle": "ediblemod:block/deeperhorustonerubyore_sides"
+    }
+}

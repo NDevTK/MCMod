@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/petrifiedwood_top",
+    	"down": "ediblemod:block/petrifiedwood_top",
+    	"south": "ediblemod:block/petrifiedwood_sides",
+    	"north": "ediblemod:block/petrifiedwood_sides",
+    	"west": "ediblemod:block/petrifiedwood_sides",
+    	"east": "ediblemod:block/petrifiedwood_sides",
+    	"particle": "ediblemod:block/petrifiedwood_sides"
+    }
+}

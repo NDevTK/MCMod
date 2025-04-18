@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/deephorustoneironore_top",
+    	"down": "ediblemod:block/deephorustoneironore_top",
+    	"south": "ediblemod:block/deephorustoneironore_sides",
+    	"north": "ediblemod:block/deephorustoneironore_sides",
+    	"west": "ediblemod:block/deephorustoneironore_sides",
+    	"east": "ediblemod:block/deephorustoneironore_sides",
+    	"particle": "ediblemod:block/deephorustoneironore_sides"
+    }
+}

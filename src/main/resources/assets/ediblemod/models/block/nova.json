@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/nova_top",
+    	"down": "ediblemod:block/nova_bottom",
+    	"south": "ediblemod:block/nova_sides",
+    	"north": "ediblemod:block/nova_sides",
+    	"west": "ediblemod:block/nova_sides",
+    	"east": "ediblemod:block/nova_sides",
+    	"particle": "ediblemod:block/nova_sides"
+    }
+}

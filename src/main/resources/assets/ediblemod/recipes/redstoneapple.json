@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xyx",
+        "xxx"
+    ],
+    "key":
+    {
+        "y":
+        {
+            "item": "minecraft:apple"
+        },
+        "x":
+        {
+            "item": "minecraft:redstone"
+        }
+        },
+    "result":
+    {
+        "item": "ediblemod:redstoneapple",
+        "count": 1
+    }
+}

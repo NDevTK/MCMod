@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/alarmblocktop",
+    	"down": "ediblemod:block/alarmblockbottom",
+    	"south": "ediblemod:block/alarmblocksides",
+    	"north": "ediblemod:block/alarmblocksides",
+    	"west": "ediblemod:block/alarmblocksides",
+    	"east": "ediblemod:block/alarmblocksides",
+    	"particle": "ediblemod:block/alarmblocksides"
+    }
+}

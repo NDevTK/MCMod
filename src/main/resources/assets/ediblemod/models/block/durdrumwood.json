@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/durdrumwood_top",
+    	"down": "ediblemod:block/durdrumwood_top",
+    	"south": "ediblemod:block/durdrumwood_sides",
+    	"north": "ediblemod:block/durdrumwood_sides",
+    	"west": "ediblemod:block/durdrumwood_sides",
+    	"east": "ediblemod:block/durdrumwood_sides",
+    	"particle": "ediblemod:block/durdrumwood_sides"
+    }
+}

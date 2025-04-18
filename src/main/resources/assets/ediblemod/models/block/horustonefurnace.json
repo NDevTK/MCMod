@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": { 
+    	"up": "ediblemod:block/horustonefurnace_top",
+    	"down": "ediblemod:block/horustonefurnace_top",
+    	"south": "ediblemod:block/horustonefurnace_sides",
+    	"north": "ediblemod:block/horustonefurnace_sides",
+    	"west": "ediblemod:block/horustonefurnace_sides",
+    	"east": "ediblemod:block/horustonefurnace_sides",
+    	"particle": "ediblemod:block/horustonefurnace_sides"
+    }
+}

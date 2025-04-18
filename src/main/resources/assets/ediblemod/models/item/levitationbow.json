@@ -1,0 +1,28 @@
+{
+	"parent": "ediblemod:item/simple_bow",
+	"textures": {
+		"layer0": "ediblemod:item/levitationbow_standby"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"pulling": 1
+			},
+			"model": "ediblemod:item/levitationbow_pulling_0"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"ediblemod:pull": 0.65
+			},
+			"model": "ediblemod:item/levitationbow_pulling_1"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"ediblemod:pull": 0.9
+			},
+			"model": "ediblemod:item/levitationbow_pulling_2"
+		}
+	]
+}
