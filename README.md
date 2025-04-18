@@ -1,1 +1,2 @@
 # MCMod
+Legacy Minecraft mod 🦆
