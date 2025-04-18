@@ -24,7 +24,7 @@ displayName="Edible Mod" #mandatory
 logoFile="logo.png" #optional
 
 # A text field displayed in the mod UI
-authors="NDev, EdiblePotNoodle" #optional
+authors="NDevTK, EdiblePotNoodle" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''This is the thing a couple of people made to mess around in MCPC'''
